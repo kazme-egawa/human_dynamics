@@ -22,6 +22,7 @@ from glob import glob
 import os
 import os.path as osp
 import subprocess
+from sys import exit
 
 from src.util.common import mkdir
 
